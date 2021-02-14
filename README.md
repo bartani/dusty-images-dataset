@@ -1,3 +1,3 @@
 # Dusty images dataset
 
-This database is a diverse collection of dusty images with different density captured in various environments by news agencies, social media users, and meteorological satellite imagery.
+This database is a diverse collection of dust images with different densities that have been captured in different environments by news agencies, social network users and meteorological satellite.
