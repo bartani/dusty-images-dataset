@@ -9,7 +9,7 @@ In recent years, computer vision is used in different applications. In these app
 This database is a diverse collection of dust images with different densities that have been captured in different environments by news agencies, social network users and meteorological satellite. These images have different sizes, brightness and resolution. 
 
 If you use these codes or dataset in your research, please cite:
-
+```
 @article{bartani2022adaptive,
   title={An adaptive optic-physic based dust removal method using optimized air-light and transfer function},
   author={Bartani, Ako and Abdollahpouri, Alireza and Ramezani, Mohsen and Tab, Fardin Akhlaghian},
@@ -18,3 +18,4 @@ If you use these codes or dataset in your research, please cite:
   year={2022},
   publisher={Springer}
 }
+```
