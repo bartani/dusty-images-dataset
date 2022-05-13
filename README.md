@@ -10,9 +10,10 @@ Open main.m file in your matlab
 Enter your dusty image path
 Run it..
 ```
+
 ## Dusty images dataset
 
-This database is a diverse collection of dust images with different densities that have been captured in different environments by news agencies, social network users and meteorological satellite. These images have different sizes, brightness and resolution. 
+This database is a collection of various dusty images with different densities that have been captured in different environments by news agencies, social network users and meteorological satellite. These images have different sizes, brightness and resolution. 
 
 If you use these codes or dataset in your research, please cite:
 ```
