@@ -13,7 +13,7 @@ Run it..
 
 ## Dusty images dataset
 
-This database is a collection of various dusty images with different densities that have been captured in different environments by news agencies, social network users and meteorological satellite. These images have different sizes, brightness and resolution. 
+During our study, a dataset of outdoor dusty images has been collected without any image filters. These images are usually captured by users from environments with different dust densities and particle sizes. Moreover, the resolutions of the cameras are different and most of these images have been shared on social networks.  
 
 If you use these codes or dataset in your research, please cite:
 ```
