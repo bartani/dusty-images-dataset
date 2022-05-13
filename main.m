@@ -2,7 +2,7 @@ clear all;
 close all;
 clc;
 
-src_path = 'D:\Article\Dust Remove\Code\data\d2\11.jpg'; % Enter your dusty image path
+src_path = '***.jpg'; % Enter your dusty image path
 dusty_img = imread(src_path);
 Na=0.3; Nb=0.8;
 dedust_img = dedust(dusty_img,7,Na,Nb);
