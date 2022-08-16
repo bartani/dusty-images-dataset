@@ -15,6 +15,8 @@ Run it..
 
 During our study, a dataset of outdoor dusty images has been collected without any image filters. These images are usually captured by users from environments with different dust densities and particle sizes. Moreover, the resolutions of the cameras are different and most of these images have been shared on social networks.  
 
+This dataset is always being updated and we try to add new dusty-images on this page. We used Image folder data for paper.
+
 If you use these codes or dataset in your research, please cite:
 ```
 @article{bartani2022adaptive,
